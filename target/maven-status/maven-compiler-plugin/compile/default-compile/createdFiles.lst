@@ -1,0 +1,15 @@
+com\shri\config\SpringSecurityConfig.class
+com\shri\config\ErrorHandler.class
+com\shri\service\OtpService.class
+com\shri\model\Book.class
+com\shri\controller\OtpController.class
+com\shri\service\MyUserDetailsService.class
+com\shri\config\BcryptClient.class
+com\shri\repo\BookRepository.class
+com\shri\repo\UserRepository.class
+com\shri\utility\EmailTemplate.class
+com\shri\controller\HomeController.class
+com\shri\config\Application.class
+com\shri\model\User.class
+com\shri\service\MyEmailService.class
+com\shri\service\OtpService$1.class
